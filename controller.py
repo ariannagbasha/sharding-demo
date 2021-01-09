@@ -3,6 +3,9 @@ import os
 from shutil import copyfile
 from typing import List, Dict
 
+__author__ = "Gabby Basha"
+__references__ = ""
+
 filename = "chapter2.txt"
 
 
